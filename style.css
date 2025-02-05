@@ -30,6 +30,8 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    text-align: right;
+    padding-top: 5px;
 }
 
 .logo{
